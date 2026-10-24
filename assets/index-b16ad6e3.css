@@ -117,3 +117,231 @@
     font-size: clamp(2.5rem, 7.5vw, 8rem);
   }
 }
+
+/* ------------------------------------------------------------------
+   Página de projeto (/projects/<slug>/ e /pt/projetos/<slug>/)
+------------------------------------------------------------------- */
+#portfolio {
+  scroll-margin-top: var(--header-h);
+}
+.pp {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 24px 16px 8px;
+}
+@media (min-width: 768px) {
+  .pp {
+    padding: 32px 48px 8px;
+  }
+}
+.pp-crumbs a {
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #6b7280;
+  text-decoration: none;
+}
+.pp-crumbs a:hover {
+  color: #ff5a00;
+}
+.pp-head {
+  max-width: 860px;
+  margin: 28px 0 36px;
+}
+.pp-eyebrow {
+  margin: 0 0 12px;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: #ff5a00;
+}
+.pp-title {
+  margin: 0;
+  font-family: "Inter Tight", sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  line-height: 1.02;
+  font-size: clamp(2rem, 5.5vw, 4rem);
+  color: #111;
+}
+.pp-sub {
+  margin: 14px 0 0;
+  font-size: clamp(1rem, 1.6vw, 1.25rem);
+  color: #374151;
+}
+.pp-desc {
+  margin: 18px 0 0;
+  font-size: 1rem;
+  line-height: 1.7;
+  font-weight: 300;
+  color: #4b5563;
+}
+.pp-desc p {
+  margin: 0 0 14px;
+}
+.pp-details {
+  margin: 22px 0 0;
+  padding: 0;
+  border-top: 1px solid #e5e7eb;
+}
+.pp-details > div {
+  display: flex;
+  gap: 16px;
+  padding: 10px 0;
+  border-bottom: 1px solid #e5e7eb;
+  font-size: 14px;
+}
+.pp-details dt {
+  flex: 0 0 120px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  font-size: 12px;
+  color: #6b7280;
+  padding-top: 2px;
+}
+.pp-details dd {
+  margin: 0;
+  color: #111;
+}
+.pp-meta {
+  margin: 14px 0 0;
+  font-size: 13px;
+  color: #9ca3af;
+}
+.pp-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 24px;
+}
+.pp-btn {
+  display: inline-block;
+  padding: 14px 22px;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  text-decoration: none;
+  border: 1.5px solid #111;
+  color: #111;
+  background: #fff;
+  transition: opacity 0.2s;
+}
+.pp-btn:hover {
+  opacity: 0.85;
+}
+.pp-btn--primary {
+  background: #ff5a00;
+  border-color: #ff5a00;
+  color: #fff;
+}
+.pp-gallery {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  column-count: 1;
+  column-gap: 8px;
+}
+@media (min-width: 640px) {
+  .pp-gallery {
+    column-count: 2;
+  }
+}
+@media (min-width: 1100px) {
+  .pp-gallery {
+    column-count: 3;
+  }
+}
+.pp-gallery li {
+  margin: 0 0 8px;
+  break-inside: avoid;
+}
+.pp-shot {
+  display: block;
+  width: 100%;
+  padding: 0;
+  border: 0;
+  background: #f3f4f6;
+  cursor: zoom-in;
+}
+.pp-shot img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.pp-cta-block {
+  margin: 56px 0 8px;
+  padding: 40px 24px;
+  background: #f9fafb;
+  border: 1px solid #e5e7eb;
+}
+.pp-cta-block h2,
+.pp-more h2 {
+  margin: 0;
+  font-family: "Inter Tight", sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  font-size: clamp(1.4rem, 3vw, 2.2rem);
+  color: #111;
+}
+.pp-cta-block p {
+  margin: 10px 0 0;
+  color: #4b5563;
+}
+.pp-more {
+  margin: 56px 0 24px;
+}
+.pp-more-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 8px;
+  margin-top: 20px;
+}
+@media (min-width: 768px) {
+  .pp-more-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+.pp-card {
+  position: relative;
+  display: block;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  background: #f3f4f6;
+  text-decoration: none;
+}
+.pp-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.7s;
+}
+.pp-card:hover img {
+  transform: scale(1.05);
+}
+.pp-card-label {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 48px 16px 14px;
+  color: #fff;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.72), rgba(0, 0, 0, 0.34) 58%, rgba(0, 0, 0, 0));
+}
+.pp-card-label strong {
+  display: block;
+  font-family: "Inter Tight", sans-serif;
+  font-weight: 700;
+  font-size: 1.05rem;
+  line-height: 1.15;
+}
+.pp-card-label em {
+  display: block;
+  margin-top: 4px;
+  font-style: normal;
+  font-size: 0.8125rem;
+  color: rgba(255, 255, 255, 0.85);
+}

@@ -4,10 +4,64 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://arcarovisuals.com/</loc>
-    <lastmod>2026-10-20</lastmod>
+    <lastmod>2026-10-24</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/"/>
     <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/"/>
+    <image:image><image:loc>https://arcarovisuals.com/paragon_004.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_14.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_7_1.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(10).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_15.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_10_1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_4_1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_18.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_8_2.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_13_1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Fachada_Cena_001_Post.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_9_1.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_11_7.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_6_5.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(20).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_5_1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_11_2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_3_4.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_2_3.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Cena_001.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/pt/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/"/>
+    <image:image><image:loc>https://arcarovisuals.com/paragon_004.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_14.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_7_1.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(10).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_15.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_10_1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_4_1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_18.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_8_2.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_13_1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Fachada_Cena_001_Post.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_9_1.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_11_7.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_6_5.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(20).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_5_1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_11_2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_3_4.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_2_3.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Cena_001.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/projects/north-carolina-custom-home-visualization/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/north-carolina-custom-home-visualization/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/north-carolina-custom-home-visualization/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/north-carolina-custom-home-visualization/"/>
     <image:image><image:loc>https://arcarovisuals.com/paragon_004.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/paragon_001.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/paragon_002.jpg</image:loc></image:image>
@@ -21,6 +75,33 @@
     <image:image><image:loc>https://arcarovisuals.com/paragon_011.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/paragon_012.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/paragon_013.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/pt/projetos/north-carolina-custom-home-visualization/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/north-carolina-custom-home-visualization/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/north-carolina-custom-home-visualization/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/north-carolina-custom-home-visualization/"/>
+    <image:image><image:loc>https://arcarovisuals.com/paragon_004.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/paragon_001.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/paragon_002.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/paragon_003.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/paragon_005.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/paragon_006.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/paragon_007.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/paragon_008.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/paragon_009.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/paragon_010.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/paragon_011.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/paragon_012.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/paragon_013.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/projects/luxury-villa-visualization-portugal/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/luxury-villa-visualization-portugal/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/luxury-villa-visualization-portugal/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/luxury-villa-visualization-portugal/"/>
     <image:image><image:loc>https://arcarovisuals.com/Projeto_1_14.jpeg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/Projeto_1_1.jpeg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/Projeto_1_3.jpeg</image:loc></image:image>
@@ -41,12 +122,66 @@
     <image:image><image:loc>https://arcarovisuals.com/Projeto_1_18.jpeg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/Projeto_1_19.jpeg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/Projeto_18.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/pt/projetos/luxury-villa-visualization-portugal/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/luxury-villa-visualization-portugal/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/luxury-villa-visualization-portugal/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/luxury-villa-visualization-portugal/"/>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_14.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_1.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_3.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_3.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_4.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_5.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_6.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_7.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_9.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_10.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_11.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_12.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_13.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_15.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_16.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_17.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_18.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_19.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_18.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/projects/florida-residential-community-visualization/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/florida-residential-community-visualization/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/florida-residential-community-visualization/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/florida-residential-community-visualization/"/>
     <image:image><image:loc>https://arcarovisuals.com/projeto_7_1.jpeg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_7_2.jpeg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_7_3.jpeg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_7_5.jpeg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_7_6.jpeg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_7_4.jpeg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/pt/projetos/florida-residential-community-visualization/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/florida-residential-community-visualization/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/florida-residential-community-visualization/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/florida-residential-community-visualization/"/>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_7_1.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_7_2.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_7_3.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_7_5.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_7_6.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_7_4.jpeg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/projects/faria-santos-residential-tower/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/faria-santos-residential-tower/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/faria-santos-residential-tower/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/faria-santos-residential-tower/"/>
     <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(10).jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(4).jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(5).jpg</image:loc></image:image>
@@ -70,6 +205,43 @@
     <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(20).jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(22).jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(23).jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/pt/projetos/faria-santos-residential-tower/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/faria-santos-residential-tower/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/faria-santos-residential-tower/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/faria-santos-residential-tower/"/>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(10).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(4).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(5).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(6).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(7).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(16).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(19).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(21).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(14).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(3).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(2).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(1).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(12).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(8).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(9).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(11).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(13).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(15).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(17).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(18).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(20).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(22).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(23).jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/projects/two-sisters-house/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/two-sisters-house/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/two-sisters-house/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/two-sisters-house/"/>
     <image:image><image:loc>https://arcarovisuals.com/Projeto_16_15.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/Projeto_16_14.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/Projeto_16_17.jpg</image:loc></image:image>
@@ -87,6 +259,37 @@
     <image:image><image:loc>https://arcarovisuals.com/Projeto_16_6.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/Projeto_16_7.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/Projeto_16_8.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/pt/projetos/two-sisters-house/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/two-sisters-house/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/two-sisters-house/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/two-sisters-house/"/>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_15.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_14.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_17.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_9.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_10.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_12.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_13.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_16.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_18.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_3.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_4.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_5.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_6.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_7.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_8.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/projects/summer-clubhouse-community-tampa/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/summer-clubhouse-community-tampa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/summer-clubhouse-community-tampa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/summer-clubhouse-community-tampa/"/>
     <image:image><image:loc>https://arcarovisuals.com/projeto_10_1.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_10_2.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_10_3.jpg</image:loc></image:image>
@@ -102,9 +305,55 @@
     <image:image><image:loc>https://arcarovisuals.com/projeto_10_13.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_10_14.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_10_15.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/pt/projetos/summer-clubhouse-community-tampa/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/summer-clubhouse-community-tampa/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/summer-clubhouse-community-tampa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/summer-clubhouse-community-tampa/"/>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_10_1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_10_2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_10_3.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_10_4.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_10_5.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_10_6.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_10_7.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_10_8.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_10_9.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_10_10.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_10_11.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_10_12.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_10_13.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_10_14.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_10_15.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/projects/childrens-planet-interior/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/childrens-planet-interior/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/childrens-planet-interior/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/childrens-planet-interior/"/>
     <image:image><image:loc>https://arcarovisuals.com/projeto_4_1.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_4_2.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_4_3.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/pt/projetos/childrens-planet-interior/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/childrens-planet-interior/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/childrens-planet-interior/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/childrens-planet-interior/"/>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_4_1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_4_2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_4_3.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/projects/costa-amalfitana-torres/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/costa-amalfitana-torres/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/costa-amalfitana-torres/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/costa-amalfitana-torres/"/>
     <image:image><image:loc>https://arcarovisuals.com/projeto_15_18.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_15_15.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_15_16.jpg</image:loc></image:image>
@@ -136,6 +385,51 @@
     <image:image><image:loc>https://arcarovisuals.com/projeto_15_29.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_15_30.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_15_31.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/pt/projetos/costa-amalfitana-torres/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/costa-amalfitana-torres/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/costa-amalfitana-torres/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/costa-amalfitana-torres/"/>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_18.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_15.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_16.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_19.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_22.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_24.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_26.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_3.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_4.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_5.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_6.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_7.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_8.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_9.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_10.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_11.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_12.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_13.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_14.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_17.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_20.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_21.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_23.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_25.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_27.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_28.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_29.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_30.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_15_31.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/projects/residential-visualization-us-homebuilders/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/residential-visualization-us-homebuilders/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/residential-visualization-us-homebuilders/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/residential-visualization-us-homebuilders/"/>
     <image:image><image:loc>https://arcarovisuals.com/projeto_8_2.jpeg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_8_1.jpeg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_8_3.jpeg</image:loc></image:image>
@@ -144,6 +438,28 @@
     <image:image><image:loc>https://arcarovisuals.com/projeto_8_6.jpeg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_8_7.jpeg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_8_8.jpeg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/pt/projetos/residential-visualization-us-homebuilders/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/residential-visualization-us-homebuilders/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/residential-visualization-us-homebuilders/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/residential-visualization-us-homebuilders/"/>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_8_2.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_8_1.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_8_3.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_8_4.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_8_5.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_8_6.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_8_7.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_8_8.jpeg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/projects/collins-st-coworking-melbourne/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/collins-st-coworking-melbourne/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/collins-st-coworking-melbourne/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/collins-st-coworking-melbourne/"/>
     <image:image><image:loc>https://arcarovisuals.com/projeto_13_1.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_13_9.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_13_6.jpg</image:loc></image:image>
@@ -156,6 +472,32 @@
     <image:image><image:loc>https://arcarovisuals.com/projeto_13_5.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_13_10.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_13_11.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/pt/projetos/collins-st-coworking-melbourne/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/collins-st-coworking-melbourne/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/collins-st-coworking-melbourne/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/collins-st-coworking-melbourne/"/>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_13_1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_13_9.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_13_6.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_13_7.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_13_8.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_13_12.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_13_2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_13_3.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_13_4.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_13_5.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_13_10.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_13_11.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/projects/condominio-vive-porto-alegre/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/condominio-vive-porto-alegre/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/condominio-vive-porto-alegre/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/condominio-vive-porto-alegre/"/>
     <image:image><image:loc>https://arcarovisuals.com/Fachada_Cena_001_Post.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/Fachada_Cena_002_Post.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/Fachada_Cena_003_Post.jpg</image:loc></image:image>
@@ -185,6 +527,49 @@
     <image:image><image:loc>https://arcarovisuals.com/Ap01%20Cena%20003_Post.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/Ap01%20Cena%20002_Post.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/Ap01%20Cena%20001_Post.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/pt/projetos/condominio-vive-porto-alegre/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/condominio-vive-porto-alegre/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/condominio-vive-porto-alegre/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/condominio-vive-porto-alegre/"/>
+    <image:image><image:loc>https://arcarovisuals.com/Fachada_Cena_001_Post.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Fachada_Cena_002_Post.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Fachada_Cena_003_Post.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/FM_Cena_004_Post.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/TR_Cena_007_Post.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/TR_Cena_006_Post.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/TR_Cena_004_Post.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/TR_Cena_003_Post.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/TR_Cena_002_Post.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/TR_Cena_001_Post.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/SF%20Cena%20001_Post.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Loja_Cena_001_Post.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Hall_Cena_001_Post.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Fitness_Post.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Est%20Cena%20001_Post.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/CW_Cena_003_Post.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/CW_Cena_002_Post.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/CW_Cena_001_Post.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/BC_Cena_001_Post.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/2%20Laundry%20Cena%20001_Post.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Ap02_Cena_003_Post.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Ap02_Cena_002_Post.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Ap02_Cena_001_Post.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Ap01_Cena_006_Post.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Ap01_Cena_005_Post.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Ap01_Cena_004_Post.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Ap01%20Cena%20003_Post.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Ap01%20Cena%20002_Post.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Ap01%20Cena%20001_Post.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/projects/architectural-rendering-homebuilders/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/architectural-rendering-homebuilders/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/architectural-rendering-homebuilders/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/architectural-rendering-homebuilders/"/>
     <image:image><image:loc>https://arcarovisuals.com/projeto_9_1.jpeg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_9_2.jpeg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_9_3.jpeg</image:loc></image:image>
@@ -201,6 +586,36 @@
     <image:image><image:loc>https://arcarovisuals.com/projeto_9_14.jpeg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_9_15.jpeg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_9_16.jpeg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/pt/projetos/architectural-rendering-homebuilders/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/architectural-rendering-homebuilders/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/architectural-rendering-homebuilders/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/architectural-rendering-homebuilders/"/>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_9_1.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_9_2.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_9_3.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_9_4.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_9_5.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_9_6.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_9_7.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_9_8.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_9_9.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_9_10.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_9_11.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_9_12.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_9_13.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_9_14.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_9_15.jpeg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_9_16.jpeg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/projects/modern-homes-visualization/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/modern-homes-visualization/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/modern-homes-visualization/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/modern-homes-visualization/"/>
     <image:image><image:loc>https://arcarovisuals.com/projeto_11_7.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_11_2.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_11_8.jpg</image:loc></image:image>
@@ -211,12 +626,56 @@
     <image:image><image:loc>https://arcarovisuals.com/projeto_11_5.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_11_6.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_11_3.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/pt/projetos/modern-homes-visualization/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/modern-homes-visualization/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/modern-homes-visualization/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/modern-homes-visualization/"/>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_11_7.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_11_2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_11_8.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_11_9.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_11_10.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_11_11.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_11_4.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_11_5.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_11_6.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_11_3.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/projects/thiago-house-living-room/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/thiago-house-living-room/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/thiago-house-living-room/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/thiago-house-living-room/"/>
     <image:image><image:loc>https://arcarovisuals.com/projeto_6_5.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_6_1.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_6_2.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_6_3.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_6_4.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_6_6.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/pt/projetos/thiago-house-living-room/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/thiago-house-living-room/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/thiago-house-living-room/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/thiago-house-living-room/"/>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_6_5.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_6_1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_6_2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_6_3.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_6_4.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_6_6.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/projects/contemporary-kitchen-dining-interior/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/contemporary-kitchen-dining-interior/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/contemporary-kitchen-dining-interior/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/contemporary-kitchen-dining-interior/"/>
     <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(20).jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(1).jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(2).jpg</image:loc></image:image>
@@ -241,6 +700,44 @@
     <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(22).jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(23).jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(24).jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/pt/projetos/contemporary-kitchen-dining-interior/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/contemporary-kitchen-dining-interior/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/contemporary-kitchen-dining-interior/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/contemporary-kitchen-dining-interior/"/>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(20).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(1).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(2).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(3).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(4).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(5).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(6).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(7).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(8).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(9).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(10).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(11).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(12).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(13).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(14).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(15).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(16).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(17).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(18).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(19).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(21).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(22).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(23).jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(24).jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/projects/casa-olimpo-dining-room/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/casa-olimpo-dining-room/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/casa-olimpo-dining-room/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/casa-olimpo-dining-room/"/>
     <image:image><image:loc>https://arcarovisuals.com/projeto_5_1.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_5_2.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_5_3.jpg</image:loc></image:image>
@@ -250,16 +747,93 @@
     <image:image><image:loc>https://arcarovisuals.com/projeto_5_7.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_5_8.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/projeto_5_9.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/pt/projetos/casa-olimpo-dining-room/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/casa-olimpo-dining-room/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/casa-olimpo-dining-room/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/casa-olimpo-dining-room/"/>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_5_1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_5_2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_5_3.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_5_4.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_5_5.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_5_6.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_5_7.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_5_8.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_5_9.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/projects/architectural-visualization-study/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/architectural-visualization-study/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/architectural-visualization-study/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/architectural-visualization-study/"/>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_11_2.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/pt/projetos/architectural-visualization-study/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/architectural-visualization-study/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/architectural-visualization-study/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/architectural-visualization-study/"/>
+    <image:image><image:loc>https://arcarovisuals.com/projeto_11_2.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/projects/monterrey-living-dining-interior/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/monterrey-living-dining-interior/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/monterrey-living-dining-interior/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/monterrey-living-dining-interior/"/>
     <image:image><image:loc>https://arcarovisuals.com/Projeto_3_4.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/Projeto_3_1.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/Projeto_3_2.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/Projeto_3_3.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/Projeto_3_5.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/Projeto_3_6.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/pt/projetos/monterrey-living-dining-interior/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/monterrey-living-dining-interior/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/monterrey-living-dining-interior/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/monterrey-living-dining-interior/"/>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_3_4.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_3_1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_3_2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_3_3.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_3_5.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_3_6.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/projects/house-in-melides-portugal/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/house-in-melides-portugal/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/house-in-melides-portugal/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/house-in-melides-portugal/"/>
     <image:image><image:loc>https://arcarovisuals.com/Projeto_2_3.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/Projeto_2_1.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/Projeto_2_2.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/Projeto_2_4.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/pt/projetos/house-in-melides-portugal/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/house-in-melides-portugal/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/house-in-melides-portugal/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/house-in-melides-portugal/"/>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_2_3.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_2_1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_2_2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://arcarovisuals.com/Projeto_2_4.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://arcarovisuals.com/projects/modern-stone-wood-house/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/modern-stone-wood-house/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/modern-stone-wood-house/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/modern-stone-wood-house/"/>
     <image:image><image:loc>https://arcarovisuals.com/Cena_001.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/Cena_002_Post.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/Cena_003_Post.jpg</image:loc></image:image>
@@ -274,263 +848,11 @@
     <image:image><image:loc>https://arcarovisuals.com/017.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://arcarovisuals.com/pt/</loc>
-    <lastmod>2026-10-20</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/"/>
-    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/"/>
-    <image:image><image:loc>https://arcarovisuals.com/paragon_004.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/paragon_001.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/paragon_002.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/paragon_003.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/paragon_005.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/paragon_006.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/paragon_007.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/paragon_008.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/paragon_009.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/paragon_010.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/paragon_011.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/paragon_012.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/paragon_013.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_14.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_1.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_3.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_2.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_3.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_4.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_5.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_6.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_7.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_9.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_10.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_11.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_12.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_13.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_15.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_16.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_17.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_18.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_1_19.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_18.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_7_1.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_7_2.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_7_3.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_7_5.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_7_6.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_7_4.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(10).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(4).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(5).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(6).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(7).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(16).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(19).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(21).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(14).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(3).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(2).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(1).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(12).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(8).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(9).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(11).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(13).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(15).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(17).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(18).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(20).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(22).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_14%20(23).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_15.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_14.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_17.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_9.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_10.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_12.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_13.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_16.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_18.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_1.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_2.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_3.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_4.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_5.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_6.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_7.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_16_8.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_10_1.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_10_2.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_10_3.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_10_4.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_10_5.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_10_6.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_10_7.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_10_8.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_10_9.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_10_10.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_10_11.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_10_12.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_10_13.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_10_14.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_10_15.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_4_1.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_4_2.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_4_3.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_15_18.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_15_15.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_15_16.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_15_19.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_15_22.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_15_1.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_15_24.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_15_26.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_15_2.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_15_3.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_15_4.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_15_5.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_15_6.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_15_7.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_15_8.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_15_9.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_15_10.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_15_11.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_15_12.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_15_13.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_15_14.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_15_17.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_15_20.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_15_21.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_15_23.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_15_25.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_15_27.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_15_28.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_15_29.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_15_30.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_15_31.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_8_2.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_8_1.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_8_3.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_8_4.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_8_5.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_8_6.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_8_7.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_8_8.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_13_1.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_13_9.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_13_6.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_13_7.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_13_8.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_13_12.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_13_2.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_13_3.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_13_4.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_13_5.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_13_10.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_13_11.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Fachada_Cena_001_Post.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Fachada_Cena_002_Post.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Fachada_Cena_003_Post.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/FM_Cena_004_Post.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/TR_Cena_007_Post.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/TR_Cena_006_Post.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/TR_Cena_004_Post.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/TR_Cena_003_Post.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/TR_Cena_002_Post.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/TR_Cena_001_Post.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/SF%20Cena%20001_Post.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Loja_Cena_001_Post.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Hall_Cena_001_Post.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Fitness_Post.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Est%20Cena%20001_Post.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/CW_Cena_003_Post.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/CW_Cena_002_Post.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/CW_Cena_001_Post.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/BC_Cena_001_Post.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/2%20Laundry%20Cena%20001_Post.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Ap02_Cena_003_Post.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Ap02_Cena_002_Post.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Ap02_Cena_001_Post.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Ap01_Cena_006_Post.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Ap01_Cena_005_Post.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Ap01_Cena_004_Post.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Ap01%20Cena%20003_Post.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Ap01%20Cena%20002_Post.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Ap01%20Cena%20001_Post.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_9_1.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_9_2.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_9_3.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_9_4.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_9_5.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_9_6.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_9_7.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_9_8.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_9_9.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_9_10.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_9_11.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_9_12.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_9_13.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_9_14.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_9_15.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_9_16.jpeg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_11_7.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_11_2.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_11_8.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_11_9.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_11_10.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_11_11.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_11_4.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_11_5.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_11_6.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_11_3.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_6_5.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_6_1.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_6_2.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_6_3.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_6_4.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_6_6.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(20).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(1).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(2).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(3).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(4).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(5).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(6).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(7).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(8).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(9).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(10).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(11).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(12).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(13).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(14).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(15).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(16).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(17).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(18).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(19).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(21).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(22).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(23).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_12%20(24).jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_5_1.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_5_2.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_5_3.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_5_4.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_5_5.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_5_6.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_5_7.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_5_8.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/projeto_5_9.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_3_4.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_3_1.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_3_2.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_3_3.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_3_5.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_3_6.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_2_3.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_2_1.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_2_2.jpg</image:loc></image:image>
-    <image:image><image:loc>https://arcarovisuals.com/Projeto_2_4.jpg</image:loc></image:image>
+    <loc>https://arcarovisuals.com/pt/projetos/modern-stone-wood-house/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://arcarovisuals.com/projects/modern-stone-wood-house/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://arcarovisuals.com/pt/projetos/modern-stone-wood-house/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://arcarovisuals.com/projects/modern-stone-wood-house/"/>
     <image:image><image:loc>https://arcarovisuals.com/Cena_001.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/Cena_002_Post.jpg</image:loc></image:image>
     <image:image><image:loc>https://arcarovisuals.com/Cena_003_Post.jpg</image:loc></image:image>
